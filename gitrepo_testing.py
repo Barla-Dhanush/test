@@ -4,7 +4,6 @@
 
 print "hello world"
 
-
 # COMMAND ----------
 
 
